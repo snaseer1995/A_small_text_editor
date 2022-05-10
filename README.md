@@ -1,4 +1,4 @@
-                                                                A small Text Editor
+                                                      A small Text Editor
 The Small Text Editor is a simple editor. It opens, saves, closes, and deletes the files. 
 How to run this Application
 1.	Download and open the solution in IntelliJ or any other IDE
